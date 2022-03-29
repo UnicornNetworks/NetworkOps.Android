@@ -1,0 +1,3 @@
+[submodule "hw/Pi.Android"]
+	path = hw/Pi.Android
+	url = https://github.com/Unicorn-OS/Pi.Android.git
